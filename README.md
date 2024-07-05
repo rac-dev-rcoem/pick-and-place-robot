@@ -19,6 +19,6 @@ This guide will help you explore the potential of RC-controlled devices using Ar
 11. Nuts and bolts(M3-M4)
 
 
-You'll find the schematics and complete code for the robot in the code and images folders of this repository, also find a detailed explaination of the components and their functions in the 'tutorial' folder. Start building right away!
+You'll find the schematics and complete code for the robot in the code and images folders of this repository, also find a detailed explaination of the components and their functions in the [provided tutorial](https://github.com/rac-dev-rcoem/pick-and-place-robot/blob/main/tutorial/tutorial.md). Start building right away!
 
 Build Smart🛠️✨
