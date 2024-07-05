@@ -1,9 +1,7 @@
 # Pick and Place Robot
 
 In the realm of wireless industrial technology, remotely controlling devices has become effortless with RC-enabled Arduino setups, allowing seamless command interpretation from your remote control.
-
-<center><img src="./image/pick_and_place.png" width="550px" height="350px" style="margin: 0 auto;"></center>
-
+![alt text](image/pick_and_place.png)
 This guide will help you explore the potential of RC-controlled devices using Arduino, with a fun and practical project: a Pick and Place Robot.
 
 ## Components Required: 
